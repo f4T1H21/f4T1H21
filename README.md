@@ -1,6 +1,6 @@
-## Hi I am f4T1H <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I am Fatih (aka f4T1H) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am f4T1H an 15 years old security researcher and developer, you can call me Fatih. I mostly spend my time on learning new stuff about infosec and sharing my knowledge by publishing writeups and recording youtube videos on different infosec topics.
+I am Fatih (aka f4T1H) a 15 years old security researcher and developer. I mostly spend my time on learning new stuff about infosec and sharing my knowledge by publishing writeups and recording youtube videos on different infosec topics.
 
 [![Github](https://img.shields.io/badge/_f4T1H21-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/f4T1H21/)](https://github.com/f4T1H21/)
 [![Twitter](https://img.shields.io/badge/_f4T1H21-1da1f2.svg?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/f4T1H21)](https://twitter.com/f4T1H21)
@@ -15,8 +15,6 @@ I am f4T1H an 15 years old security researcher and developer, you can call me Fa
 - 💻 Often used line of code: ``id;cat /root/root.txt``
 - 🤔 looking for the people who wants to be a teammate in CTF comps.
 - 📫 You can reach me by doing the OSINT.
-- 😄 Pronouns: Fatih
-- ⚡ Fun fact: I love drinking water.
 
 ### Technologies I'm dealing with
 [![Python](https://img.shields.io/badge/_python-3776AB.svg?style=for-the-badge&logo=python&labelColor=black)](#)
@@ -25,7 +23,7 @@ I am f4T1H an 15 years old security researcher and developer, you can call me Fa
 [![Debian](https://img.shields.io/badge/_debian-A81D33.svg?style=for-the-badge&logo=debian&labelColor=black&logoColor=A81D33)](#)
 [![Raspberry Pi](https://img.shields.io/badge/_raspberry_pi-A22846.svg?style=for-the-badge&logo=raspberrypi&labelColor=black&logoColor=A22846)](#)
 
-### Profile Visits
+### Profile Visitors Count
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=f4T1H21.f4T1H21)
 
