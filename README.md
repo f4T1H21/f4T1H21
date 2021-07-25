@@ -1,7 +1,8 @@
-## Hi I am f4T1H <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, I am Şefik Efe Altınoluk aka f4T1H <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.glitch.me/badge?page_id=f4T1H21.f4T1H21)
 
-a security researcher and developer. I mostly spend my time on learning new stuff about infosec, playing CTFs and sharing my knowledge by publishing writeups and recording youtube videos on different infosec topics.
+16 y/o security researcher and developer. I mostly spend my time on learning new stuff about infosec, playing CTFs and sharing my knowledge by publishing writeups and recording youtube videos on different infosec topics.
 
+[![LinkedIn](https://img.shields.io/badge/_%C5%9Eefik%20Efe%20Alt%C4%B1noluk-0A66C2.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sefikefealtinoluk/)](https://www.linkedin.com/in/sefikefealtinoluk/)
 [![Github](https://img.shields.io/badge/_f4T1H21-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/f4T1H21/)](https://github.com/f4T1H21/)
 [![Twitter](https://img.shields.io/badge/_f4T1H21-1da1f2.svg?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/f4T1H21)](https://twitter.com/f4T1H21)
 [![HackTheBox](https://img.shields.io/badge/_f4T1H-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/184235)](https://app.hackthebox.eu/profile/184235)
@@ -10,18 +11,22 @@ a security researcher and developer. I mostly spend my time on learning new stuf
 [![YouTube](https://img.shields.io/badge/_Siber%20G%C3%BCvenlik%20T%C3%BCrk%C3%A7e-FF0000.svg?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
 [![BuyMeaCoffee](https://img.shields.io/badge/_f4T1H-FFDD00.svg?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/f4T1H)](https://www.buymeacoffee.com/f4T1H)
 
-- 🌱 currently learning XSS
-- ⛏️ currently working on extending my social network.
-- 💻 Often used line of code: ``id;cat /root/root.txt``
-- 🤔 looking for the people who wants to be a teammate in CTF comps.
-- 📫 You can reach me by doing the OSINT.
+- 🌱 currently learning WEB.
+- ⛏️ currently working on Teknofest Rocket Competititon.
+- 💻 often used line of code: ``cat /root/root.txt``
+- 🤔 looking for the people who wants to be a teammate in CTF competitions.
+- 📫 you can reach me by doing the OSINT.
 
 ### Technologies I'm dealing with
+
 [![Python](https://img.shields.io/badge/_python-3776AB.svg?style=for-the-badge&logo=python&labelColor=black)](#)
 [![Bash](https://img.shields.io/badge/_bash-4EAA25.svg?style=for-the-badge&logo=gnubash&labelColor=black)](#)
+─
 [![Kali Linux](https://img.shields.io/badge/_kali%20linux-557C94.svg?style=for-the-badge&logo=kalilinux&labelColor=black)](#)
 [![Debian](https://img.shields.io/badge/_debian-A81D33.svg?style=for-the-badge&logo=debian&labelColor=black&logoColor=A81D33)](#)
+─
 [![Raspberry Pi](https://img.shields.io/badge/_raspberry_pi-A22846.svg?style=for-the-badge&logo=raspberrypi&labelColor=black&logoColor=A22846)](#)
+[![ESP32](https://img.shields.io/badge/_esp32-E7352C.svg?style=for-the-badge&logo=espressif&labelColor=black)](#)
 
 ### My Hack The Box writeups
 
@@ -31,13 +36,9 @@ __https://git.io/htb-writeups__
 
 <a href=https://www.buymeacoffee.com/f4T1H><img src="https://github.com/f4T1H21/f4T1H21/blob/main/support.png" width="221" height="40" alt="Support"></a>
 
-### Profile visitors count
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=f4T1H21.f4T1H21)
-
 <details>
 <summary>
-  More stuff about me / Daha fazla bilgi
+  Daha fazla bilgi / More stuff
 </summary>
 
 <br>
