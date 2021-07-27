@@ -1,6 +1,6 @@
 ## Hi, I am Şefik Efe aka f4T1H <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.glitch.me/badge?page_id=f4T1H21.f4T1H21)
 
-security researcher and developer. I mostly spend my time on learning new stuff about infosec, playing CTFs and sharing my knowledge by publishing writeups and recording youtube videos on different infosec topics.
+Jr. Security Researcher and Developer. I mostly spend my time on learning new stuff about infosec, playing CTFs and sharing my knowledge by publishing writeups and recording youtube videos on different infosec topics.
 
 [![LinkedIn](https://img.shields.io/badge/_%C5%9Eefik%20Efe-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/şefik-efe/)
 [![Github](https://img.shields.io/badge/_f4T1H21-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/f4T1H21/)](https://github.com/f4T1H21/)
