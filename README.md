@@ -20,7 +20,7 @@
 ### My Hack The Box writeups: https://git.io/htb-writeups
 <a href=https://www.buymeacoffee.com/f4T1H21><img src="https://github.com/f4T1H21/f4T1H21/blob/main/support.png" width="221" height="40" alt="Support"></a>
 
-![f4T1H21's Github Stats](https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=onedark&count_private=true&hide=prs)
+![f4T1H21's Github Stats](https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=nightowl&count_private=true&hide=prs)
 
 <br>
 
