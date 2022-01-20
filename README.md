@@ -24,4 +24,4 @@
 
 <br>
 
-___─ Written by f4T1H21 ─___
+___─ Written by f4T1H ─___
