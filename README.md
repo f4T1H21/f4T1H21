@@ -15,7 +15,7 @@
 <h3>Technologies I deal with</h3>
 <p align="left">
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="img/icons/python.svg" alt="python" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="img/icons/python.svg" alt="python" width="40" height="40"/> </a>&nbsp;
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="img/icons/bash.png" alt="bash" width="38" height="40"/> </a>&nbsp;
   <!-- PHP -->
