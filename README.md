@@ -1,27 +1,71 @@
-## Hi, my name is Şefik Efe aka f4T1H <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=black&right_color=darkred)
+<img src="banner.png">
 
-[![LinkedIn](https://img.shields.io/badge/_%C5%9Eefik%20Efe-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/şefik-efe/)
-[![Github](https://img.shields.io/badge/_f4T1H21-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/f4T1H21/)](https://github.com/f4T1H21/)
-[![Twitter](https://img.shields.io/badge/_f4T1H21-1da1f2.svg?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/f4T1H21)](https://twitter.com/f4T1H21)
-[![HackTheBox](https://img.shields.io/badge/_f4T1H21-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/184235)](https://app.hackthebox.eu/profile/184235)
-[![Hackerone](https://img.shields.io/badge/_f4T1H21-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/f4t1h?type=user)](https://hackerone.com/f4T1H21?type=user)
-[![BuyMeaCoffee](https://img.shields.io/badge/_f4T1H21-FFDD00.svg?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/f4T1H21)](https://www.buymeacoffee.com/f4T1H21)
-[![YouTube](https://img.shields.io/badge/_Siber%20G%C3%BCvenlik%20T%C3%BCrk%C3%A7e-FF0000.svg?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
+<h2> Hi, I am Şefik Efe - aka f4T1H</h2> &nbsp;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=grey" alt="profile-visits">
 
-### Technologies I'm dealing with
+<p align="left">
+  <a href="https://www.linkedin.com/in/şefik-efe/"><img src="account-badges/linkedin.svg" alt="LinkedIn"></a>&nbsp;
+  <a href="https://github.com/f4T1H21/"><img src="account-badges/github.svg" alt="GitHub"></a>&nbsp;
+  <a href="https://twitter.com/f4T1H21"><img src="account-badges/twitter.svg" alt="Twitter"></a>&nbsp;
+  <a href="https://app.hackthebox.eu/profile/184235"><img src="account-badges/hackthebox.svg" alt="HackTheBox"></a>&nbsp;
+  <a href="https://hackerone.com/f4T1H21?type=user"><img src="account-badges/hackerone.svg" alt="HackerOne"></a>&nbsp;
+  <a href="https://www.buymeacoffee.com/f4T1H21"><img src="account-badges/buymeacoffee.svg" alt="Buymeacoffee"></a>&nbsp;
+  <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg"><img src="account-badges/youtube.svg" alt="YouTube"></a>
+</p>
 
-[![Python](https://img.shields.io/badge/_python-3776AB.svg?style=for-the-badge&logo=python&labelColor=black)](#)
-[![Bash](https://img.shields.io/badge/_bash-4EAA25.svg?style=for-the-badge&logo=gnubash&labelColor=black)](#)
-[![Arch](https://img.shields.io/badge/_arch-3776AB.svg?style=for-the-badge&logo=archlinux&labelColor=black)](#)
-[![Debian](https://img.shields.io/badge/_debian-A81D33.svg?style=for-the-badge&logo=debian&labelColor=black&logoColor=A81D33)](#)
-[![Raspberry Pi](https://img.shields.io/badge/_raspberry_pi-A22846.svg?style=for-the-badge&logo=raspberrypi&labelColor=black&logoColor=A22846)](#)
-[![ESP32](https://img.shields.io/badge/_esp32-E7352C.svg?style=for-the-badge&logo=espressif&labelColor=black)](#)
+<h3>Technologies</h3>
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a>&nbsp;
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash.png" alt="bash" width="38" height="40"/> </a>&nbsp;
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="icons/php.png" alt="php" width="55" height="40"/> </a>&nbsp;
+  <!-- Javascript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> <img src="icons/javascript.svg" alt="javascript" width="38" height="38"/> </a>&nbsp;
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
+  <!-- CSS -->
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="icons/flask.svg" alt="flask" width="40" height="40"/> </a>&nbsp;
+  <!-- NodeJS -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="icons/nodejs.png" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/mysql.png" alt="mysql" width="40" height="40"/> </a>&nbsp;
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/postgresql.png" alt="postgresql" width="40" height="40"/> </a>&nbsp;
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git.svg" alt="git" width="40" height="40"/> </a>&nbsp;
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons/docker.png" alt="docker" width="50" height="40"/> </a>&nbsp;
+  <!-- Arch -->
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="icons/arch.png" alt="arch" width="40" height="40"/> </a>&nbsp;
+  <!-- Debian -->
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="icons/debian.svg" alt="debian" width="40" height="40"/> </a>&nbsp;
+  <!-- Kali -->
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="icons/kali.png" alt="kali" width="50" height="40"/> </a>&nbsp;
+  <!-- Raspberry Pi -->
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="icons/raspberrypi.svg" alt="raspberrypi" width="40" height="40"/> </a>&nbsp;
+  <!-- ESP32 -->
+  <a href="https://www.espressif.com/en/products/socs/esp32/" target="_blank" rel="noreferrer"> <img src="icons/espressif.png" alt="esp32" width="40" height="40"/> </a>&nbsp;
+  <!-- LoRa -->
+  <a href="https://lora-alliance.org/" target="_blank" rel="noreferrer"> <img src="icons/lora.png" alt="lora" width="50" height="55"/> </a>&nbsp;  
+</p>
 
-### My Hack The Box writeups: https://git.io/htb-writeups
-<a href=https://www.buymeacoffee.com/f4T1H21><img src="https://github.com/f4T1H21/f4T1H21/blob/main/support.png" width="221" height="40" alt="Support"></a>
+<hr>
 
-![f4T1H21's Github Stats](https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true&hide=prs)
+<a href=https://www.buymeacoffee.com/f4T1H21>
+  <img src="support.png" align="right" height="40" alt="Support">
+</a>
+<h3>Hack The Box Writeups: <a href="https://git.io/htb-writeups">git.io/htb-writeups</a>
+</h3>
 
-<br>
+<h3>📺&nbsp; Latest <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg">YouTube</a> Videos</h3>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
-___─ Written by f4T1H ─___
+<img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true&hide=prs" alt="statistics">
+
+<br/>
+
+<b><i>─ Written by f4T1H ─</i></b>
