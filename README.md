@@ -1,6 +1,6 @@
 <img src="banner.png">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=grey" alt="profile-visits" align="right">
-<h2>My name is Şefik Efe - aka f4T1H 👋</h2>
+<h2>Hi, my name is Şefik Efe aka f4T1H 👋</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/şefik-efe/"><img src="img/account-badges/linkedin.svg" alt="LinkedIn"></a>&nbsp;
@@ -52,21 +52,24 @@
   <a href="https://lora-alliance.org/" target="_blank" rel="noreferrer"> <img src="img/icons/lora.png" alt="lora" width="50" height="55"/> </a>&nbsp;  
 </p>
 
-<hr>
+<hr/>
 
 <a href=https://www.buymeacoffee.com/f4T1H21>
   <img src="support.png" align="right" height="40" alt="Support">
 </a>
-<h3>Hack The Box Writeups: <a href="https://git.io/htb-writeups">git.io/htb-writeups</a>
+<h3>📝 Hack The Box Writeups: <a href="https://git.io/htb-writeups">git.io/htb-writeups</a>
 </h3>
 
-<h3>📺&nbsp; Latest <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg">YouTube</a> Videos</h3>
+<h3>📺 Latest <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg">YouTube</a> Videos</h3>
+
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [IDOR Zaafiyeti | Dice CTF&#39;22 Knock-Knock | Türkçe Anlatım](https://www.youtube.com/watch?v=kW6I2NnZfoQ)
 - [Wildcard Injection - Python FTP - WordPress - Rbash | TryHackMe Jeff | Türkçe Anlatım](https://www.youtube.com/watch?v=OJvOKAAd-p0)
 - [Kali Linux Kurduktan Sonra 6 Ayar | Türkçe Anlatım](https://www.youtube.com/watch?v=rIb1A11TUVU)
 - [Kali Linux Virtualbox Kurulum | Türkçe Anlatım + Kanal Hakkında](https://www.youtube.com/watch?v=w8JFnbOniwk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+&nbsp;&nbsp;&nbsp;&nbsp;➡️ [More videos](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
+<hr/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true&hide=prs" alt="statistics">
 
