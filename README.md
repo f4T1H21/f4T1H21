@@ -1,5 +1,5 @@
 <img src="banner.png">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=grey" alt="profile-visits" align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right">
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋</h2>
 
 <p align="left">
