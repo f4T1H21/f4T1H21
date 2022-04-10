@@ -1,7 +1,10 @@
 <img src="banner.png">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right">
-<h2>Hi, my name is Şefik Efe aka f4T1H 👋</h2>
+<h2>Hi, my name is Şefik Efe aka f4T1H 👋 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right">
+</h2>
+<p>High school student interested in security research, vulnerability analysis and software development.</p>
 
+<h3>🔗 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/şefik-efe"><img src="img/account-badges/linkedin.svg" alt="LinkedIn"></a>&nbsp;
   <a href="https://github.com/f4T1H21"><img src="img/account-badges/github.svg" alt="GitHub"></a>&nbsp;
@@ -12,7 +15,7 @@
   <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg"><img src="img/account-badges/youtube.svg" alt="YouTube"></a>
 </p>
 
-<h3>Technologies I deal with</h3>
+<h3>🌐 Technologies I deal with</h3>
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="img/icons/python.svg" alt="python" width="40" height="40"/></a>&nbsp;
@@ -54,10 +57,12 @@
 
 <hr/>
 
-<a href=https://www.buymeacoffee.com/f4T1H21>
-  <img src="support.png" align="right" height="40" alt="Support">
-</a>
-<h3>📝 Hack The Box Writeups: <a href="https://git.io/htb-writeups">git.io/htb-writeups</a>
+<h3>📝 Hack The Box Writeups: <a href="https://git.io/htb-writeups">
+    git.io/htb-writeups
+  </a>
+  <a href=https://www.buymeacoffee.com/f4T1H21>
+    <img src="support.png" align="right" height="40" alt="Support">
+  </a>
 </h3>
 
 <h3>📺 Latest <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg">YouTube</a> Videos</h3>
@@ -68,7 +73,7 @@
 - [Kali Linux Kurduktan Sonra 6 Ayar | Türkçe Anlatım](https://www.youtube.com/watch?v=rIb1A11TUVU)
 - [Kali Linux Virtualbox Kurulum | Türkçe Anlatım + Kanal Hakkında](https://www.youtube.com/watch?v=w8JFnbOniwk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-&nbsp;&nbsp;&nbsp;&nbsp;➡️ [More videos](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
+&nbsp;&nbsp;&nbsp;&nbsp;➡️ [more videos](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
 <hr/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true&hide=prs" alt="statistics">
