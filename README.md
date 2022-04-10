@@ -1,6 +1,6 @@
 <img src="img/banner.png">
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right">
+  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
 </h2>
 <p>High school student interested in security research, vulnerability analysis and software development.</p>
 
