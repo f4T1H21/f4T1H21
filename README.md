@@ -1,4 +1,4 @@
-<img src="banner.png">
+<img src="img/banner.png">
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right">
 </h2>
@@ -18,17 +18,19 @@
 <h3>🌐 Technologies I deal with</h3>
 <p align="left">
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="img/icons/python.svg" alt="python" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="img/icons/python.svg" alt="python" width="42" height="42"/></a>&nbsp;
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img src="img/icons/bash.png" alt="bash" width="38" height="40"/></a>&nbsp;
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="img/icons/php.png" alt="php" width="55" height="40"/></a>&nbsp;
-  <!-- Javascript -->
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="img/icons/javascript.svg" alt="javascript" width="38" height="38"/></a>&nbsp;
   <!-- HTML -->
   <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"><img src="img/icons/html5.svg" alt="html5" width="40" height="40"/></a>&nbsp;
   <!-- CSS -->
   <a href="https://www.w3.org/css" target="_blank" rel="noreferrer"><img src="img/icons/css3.svg" alt="css3" width="40" height="40"/></a>&nbsp;
+  <!-- MicroPython -->
+  <a href="https://micropython.org/" target="_blank" rel="noreferrer"><img src="img/icons/micropython.png" alt="micropython" width="38" height="38"/></a>&nbsp;
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="img/icons/flask.svg" alt="flask" width="40" height="40"/></a>&nbsp;
   <!-- NodeJS -->
