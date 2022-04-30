@@ -63,7 +63,7 @@
     git.io/htb-writeups
   </a>
   <a href=https://www.buymeacoffee.com/f4T1H21>
-    <img src="support.png" align="right" height="40" alt="Support">
+    <img src="support.png" align="right" height="40" alt="support">
   </a>
 </h3>
 
@@ -75,10 +75,10 @@
 - [Kali Linux Kurduktan Sonra 6 Ayar | Türkçe Anlatım](https://www.youtube.com/watch?v=rIb1A11TUVU)
 - [Kali Linux Virtualbox Kurulum | Türkçe Anlatım + Kanal Hakkında](https://www.youtube.com/watch?v=w8JFnbOniwk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-&nbsp;&nbsp;&nbsp;&nbsp;➡️ [more videos](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
+&emsp;➡️ [more videos](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
 <hr/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true&hide=prs" alt="statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true&hide=prs" alt="statistics">&emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
 
 <br/>
 
