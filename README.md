@@ -10,9 +10,9 @@
   <a href="https://github.com/f4T1H21"><img src="img/account-badges/github.svg" alt="GitHub"></a>&nbsp;
   <a href="https://twitter.com/f4T1H21"><img src="img/account-badges/twitter.svg" alt="Twitter"></a>&nbsp;
   <a href="https://app.hackthebox.eu/profile/184235"><img src="img/account-badges/hackthebox.svg" alt="HackTheBox"></a>&nbsp;
-  <a href="https://hackerone.com/f4T1H21?type=user"><img src="img/account-badges/hackerone.svg" alt="HackerOne"></a>&nbsp;
+  <a href="https://hackerone.com/f4T1H21"><img src="img/account-badges/hackerone.svg" alt="HackerOne"></a>&nbsp;
   <a href="https://www.buymeacoffee.com/f4T1H21"><img src="img/account-badges/buymeacoffee.svg" alt="Buymeacoffee"></a>&nbsp;
-  <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg"><img src="img/account-badges/youtube.svg" alt="YouTube"></a>
+  <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e"><img src="img/account-badges/youtube.svg" alt="YouTube"></a>
 </p>
 
 <h3>🌐 Technologies I deal with</h3>
@@ -67,7 +67,7 @@
   </a>
 </h3>
 
-<h3>📺 Latest <a href="https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg">YouTube</a> Videos</h3>
+<h3>📺 Latest <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e">YouTube</a> Videos</h3>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [RSA Temelleri ve Python ile Uygulamalı Challenge Çözümü](https://www.youtube.com/watch?v=P7RpaRVAV6w)
@@ -76,7 +76,7 @@
 - [Kali Linux Kurduktan Sonra 6 Ayar | Türkçe Anlatım](https://www.youtube.com/watch?v=rIb1A11TUVU)
 - [Kali Linux Virtualbox Kurulum | Türkçe Anlatım + Kanal Hakkında](https://www.youtube.com/watch?v=w8JFnbOniwk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-&emsp;➡️ [more videos](https://www.youtube.com/channel/UChFCLkYhKx15kioYSfNfoyg)
+&emsp;➡️ [more videos](https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e)
 <hr/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true" alt="statistics"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
