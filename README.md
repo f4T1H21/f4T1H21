@@ -16,7 +16,7 @@
 </p>
 
 <h3>🌐 Technologies I deal with</h3>
-<p align="left">
+<p align="center">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="img/icons/python.svg" alt="python" width="42" height="42"/></a>&nbsp;
   <!-- Bash -->
@@ -79,8 +79,11 @@
 &emsp;➡️ [more videos](https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e)
 <hr/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true" alt="statistics"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true" alt="statistics">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
+</p>
+  
 <br/>
 
 <b><i>─ Written by f4T1H ─</i></b>
