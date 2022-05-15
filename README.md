@@ -80,8 +80,8 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true" alt="statistics">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true" alt="statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
 </p>
   
 <br/>
