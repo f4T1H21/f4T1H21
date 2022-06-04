@@ -5,7 +5,7 @@
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋 
   <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
 </h2>
-<p>High school student interested in security research, software development, blockchain and web technologies.</p>
+<p>High school student interested in security research, software development, Web technologies, IoT and blockchain.</p>
 
 <h3>🔗 Connect with me</h3>
 <p align="left">
