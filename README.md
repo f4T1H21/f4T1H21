@@ -62,8 +62,12 @@
 <h3>📝 Hack The Box Writeups: <a href="https://git.io/htb-writeups">
     git.io/htb-writeups
   </a>
-  <a href=https://www.buymeacoffee.com/f4T1H21>
-    <img src="support.png" align="right" height="40" alt="support">
+  <a href="https://www.buymeacoffee.com/f4T1H21">
+    <img src="support.png" align="right" height="52" alt="support">
+  </a>
+  &emsp;&emsp;
+  <a href="https://app.hackthebox.com/profile/184235">
+    <img src=https://www.hackthebox.com/badge/image/184235 align="right" alt="htb-badge">
   </a>
 </h3>
 
