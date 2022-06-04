@@ -1,21 +1,31 @@
-<a href="#">
+<a href="https://git.io/fatih21">
   <img src="img/banner.png" align="center">
 </a>
 
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋 
   <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
 </h2>
-<p>High school student interested in security research, software development, Web technologies, IoT and blockchain.</p>
+<p>High school student interested in security research, software development, Web technologies, IoT and blockchain.<br/>• I generally use <i>f4T1H</i> as my nickname and <i>f4T1H21</i> as my username.</p>
 
-<h3>🔗 Connect with me</h3>
+<h3>🔗 Let's connect</h3>
+<!-- got badge colors from simpleicons.org -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/şefik-efe"><img src="img/account-badges/linkedin.svg" alt="LinkedIn"></a>&nbsp;
-  <a href="https://github.com/f4T1H21"><img src="img/account-badges/github.svg" alt="GitHub"></a>&nbsp;
-  <a href="https://twitter.com/f4T1H21"><img src="img/account-badges/twitter.svg" alt="Twitter"></a>&nbsp;
-  <a href="https://app.hackthebox.eu/profile/184235"><img src="img/account-badges/hackthebox.svg" alt="HackTheBox"></a>&nbsp;
-  <a href="https://hackerone.com/f4T1H21"><img src="img/account-badges/hackerone.svg" alt="HackerOne"></a>&nbsp;
-  <a href="https://www.buymeacoffee.com/f4T1H21"><img src="img/account-badges/buymeacoffee.svg" alt="Buymeacoffee"></a>&nbsp;
-  <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e"><img src="img/account-badges/youtube.svg" alt="YouTube"></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/şefik-efe"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=Siber%20G%C3%BCvenlik%20T%C3%BCrk%C3%A7e&logo=youtube&color=FF0000" alt="YouTube"></a>&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=github&color=181717" alt="GitHub"></a>&nbsp;
+  <!-- Twitter -->
+  <a href="https://twitter.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=twitter&color=1DA1F2" alt="Twitter"></a>&nbsp;
+  <!-- Hack The Box -->
+  <a href="https://app.hackthebox.eu/profile/184235"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=hackthebox&color=9FEF00" alt="HackTheBox"></a>&nbsp;
+  <!-- HackerOne -->
+  <a href="https://hackerone.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=hackerone&color=494649" alt="HackerOne"></a>&nbsp;
+  <!-- Buy Me A Coffee -->
+  <a href="https://www.buymeacoffee.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=buymeacoffee&color=FFDD00" alt="Buymeacoffee"></a>&nbsp;
+  <!-- Arch Linux Forums -->
+  <a href="https://bbs.archlinux.org/profile.php?id=144010"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=archlinux&color=1793D1" alt="ArchForums"></a>
 </p>
 
 <h3>🌐 Technologies I deal with</h3>
