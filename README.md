@@ -5,7 +5,7 @@
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋 
   <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
 </h2>
-<p>An interesting high school student interested in [security research, software development] on [Web technologies, Linux, IoT and Blockchain].<br/>• I generally use <i>f4T1H</i> as my nickname and <i>f4T1H21</i> as my username.</p>
+<p>Interesting high school student interested in [security research, software development] on [Web technologies, Linux, IoT and Blockchain].<br/>• I generally use <i>f4T1H</i> as my nickname and <i>f4T1H21</i> as my username.</p>
 
 <h3>🔗 Let's connect</h3>
 <!-- got badge colors from simpleicons.org -->
