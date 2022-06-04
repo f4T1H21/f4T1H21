@@ -1,4 +1,7 @@
-<img src="img/banner.png" align="center">
+<a href="#">
+  <img src="img/banner.png" align="center">
+</a>
+
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋 
   <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
 </h2>
@@ -66,7 +69,7 @@
     <img src=https://www.hackthebox.com/badge/image/184235 align="right" alt="htb-badge">
   </a>
   <a href="https://www.buymeacoffee.com/f4T1H21">
-    <img src="support.png" align="right" height="52" alt="support">
+    <img src="support.png" align="right" height="50" alt="support">
   </a>
 </h3>
 
