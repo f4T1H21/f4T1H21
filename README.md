@@ -83,7 +83,7 @@
   </a>
 </h3>
 
-<h3>📺 Latest <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e">YouTube</a> Videos</h3>
+<h3>📺 Latest <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e">YouTube</a> Videos:</h3>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [RSA Temelleri ve Python ile Uygulamalı Challenge Çözümü](https://www.youtube.com/watch?v=P7RpaRVAV6w)
