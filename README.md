@@ -83,4 +83,23 @@
   </a>
 </h3>
 
+<h3>📺 Latest <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e">YouTube</a> Videos:</h3>
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [RSA Temelleri ve Python ile Uygulamalı Challenge Çözümü](https://www.youtube.com/watch?v=P7RpaRVAV6w)
+- [IDOR Zaafiyeti | Dice CTF&#39;22 Knock-Knock | Türkçe Anlatım](https://www.youtube.com/watch?v=kW6I2NnZfoQ)
+- [Wildcard Injection - Python FTP - WordPress - Rbash | TryHackMe Jeff | Türkçe Anlatım](https://www.youtube.com/watch?v=OJvOKAAd-p0)
+- [Kali Linux Kurduktan Sonra 6 Ayar | Türkçe Anlatım](https://www.youtube.com/watch?v=rIb1A11TUVU)
+- [Kali Linux Virtualbox Kurulum | Türkçe Anlatım + Kanal Hakkında](https://www.youtube.com/watch?v=w8JFnbOniwk)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+&emsp;➡️ [more videos](https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e)
+<hr/>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true" alt="statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
+</p>
+  
+<br/>
+
 <b><i>─ Written by f4T1H ─</i></b>
