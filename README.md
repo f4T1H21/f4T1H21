@@ -36,6 +36,8 @@
   <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img src="img/icons/bash.png" alt="bash" width="38" height="40"/></a>&nbsp;
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="img/icons/php.png" alt="php" width="55" height="40"/></a>&nbsp;
+  <!-- Solidity -->
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="img/icons/solidity.png" alt="solidity" width="55" height="55"/></a>&nbsp;
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="img/icons/javascript.svg" alt="javascript" width="38" height="38"/></a>&nbsp;
   <!-- HTML -->
