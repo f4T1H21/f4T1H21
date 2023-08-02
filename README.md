@@ -13,7 +13,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/şefik-efe"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
   <!-- YouTube -->
-  <!--a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=Siber%20G%C3%BCvenlik%20T%C3%BCrk%C3%A7e&logo=youtube&color=FF0000" alt="YouTube"></a>&nbsp;>
+  <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=Siber%20G%C3%BCvenlik%20T%C3%BCrk%C3%A7e&logo=youtube&color=FF0000" alt="YouTube"></a>&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=github&color=181717" alt="GitHub"></a>&nbsp;
   <!-- Twitter -->
