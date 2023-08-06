@@ -92,13 +92,11 @@
 <h3>📺 Latest <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e">YouTube</a> Videos:</h3>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
 - [RSA Temelleri ve Python ile Uygulamalı Challenge Çözümü](https://www.youtube.com/watch?v=P7RpaRVAV6w)
 - [IDOR Zaafiyeti | Dice CTF&#39;22 Knock-Knock | Türkçe Anlatım](https://www.youtube.com/watch?v=kW6I2NnZfoQ)
 - [Wildcard Injection - Python FTP - WordPress - Rbash | TryHackMe Jeff | Türkçe Anlatım](https://www.youtube.com/watch?v=OJvOKAAd-p0)
 - [Kali Linux Kurduktan Sonra 6 Ayar | Türkçe Anlatım](https://www.youtube.com/watch?v=rIb1A11TUVU)
 - [Kali Linux Virtualbox Kurulum | Türkçe Anlatım + Kanal Hakkında](https://www.youtube.com/watch?v=w8JFnbOniwk)
-
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &emsp;➡️
