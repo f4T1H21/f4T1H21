@@ -12,16 +12,20 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/şefik-efe"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=github&color=181717" alt="GitHub"></a>&nbsp;
   <!-- Twitter -->
   <a href="https://twitter.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=twitter&color=1DA1F2" alt="Twitter"></a>&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=github&color=181717" alt="GitHub"></a>&nbsp;
+  <!-- GitLab -->
+  <a href="https://gitlab.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=gitlab&color=E24329" alt="GitLab"></a>&nbsp;
   <!-- YouTube -->
   <a href="https://www.youtube.com/SiberG%C3%BCvenlikT%C3%BCrk%C3%A7e"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=Siber%20G%C3%BCvenlik%20T%C3%BCrk%C3%A7e&logo=youtube&color=FF0000" alt="YouTube"></a>&nbsp;
   <!-- Hack The Box -->
   <a href="https://app.hackthebox.eu/profile/184235"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=hackthebox&color=9FEF00" alt="HackTheBox"></a>&nbsp;
   <!-- HackerOne -->
   <a href="https://hackerone.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=hackerone&color=494649" alt="HackerOne"></a>&nbsp;
+  <!-- MuseScore -->
+  <a href="https://musescore.com/user/59105383"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=musescore&color=5584CC" alt="MuseScore"></a>&nbsp;
   <!-- Buy Me A Coffee -->
   <a href="https://www.buymeacoffee.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=buymeacoffee&color=FFDD00" alt="Buymeacoffee"></a>&nbsp;
   <!-- Arch Linux Forums -->
