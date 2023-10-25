@@ -1,7 +1,3 @@
-<a href="https://git.io/fatih21">
-  <img src="img/banner.png" align="center">
-</a>
-
 <h2>Hi, my name is Şefik Efe aka f4T1H 👋
   <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=f4T1H21.f4T1H21&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
 </h2>
