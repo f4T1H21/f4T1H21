@@ -20,8 +20,6 @@
   <a href="https://app.hackthebox.eu/profile/184235"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=hackthebox&color=9FEF00" alt="HackTheBox"></a>&nbsp;
   <!-- HackerOne -->
   <a href="https://hackerone.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=hackerone&color=494649" alt="HackerOne"></a>&nbsp;
-  <!-- MuseScore -->
-  <a href="https://musescore.com/user/59105383"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=musescore&color=5584CC" alt="MuseScore"></a>&nbsp;
   <!-- Buy Me A Coffee -->
   <a href="https://www.buymeacoffee.com/f4T1H21"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=buymeacoffee&color=FFDD00" alt="Buymeacoffee"></a>&nbsp;
   <!-- Arch Linux Forums -->
